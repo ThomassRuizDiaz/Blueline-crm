@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar {
+    background-color: #333;
+    color: #fff;
+    height: 100vh;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+}
+
+.main {
+    margin-left: 25%;
+    padding: 20px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    border: 3px solid black;
+    position: relative;
+}
+
+.circle span {
+    position: absolute; 
+    bottom: -15px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: "ZwoWebPro-Black W04 Regular";
+    font-size: 166px;
+    font-weight: bold;
+}
+
+.text-imagen{
+    font-family: "ZwoWebPro-Black W04 Regular";
+    font-size: 35px;
+    font-weight: bold;
+}
