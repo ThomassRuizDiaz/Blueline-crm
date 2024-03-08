@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Blueline-crm/assets/fonts/Gilroy-Bold.ttf') format('truetype');
+}
+
+*{
+    font-family: 'Gilroy-Bold', sans-serif;
+}
+.seccion-1 {
+    width: 70%; 
+    min-width: 300px; 
+    margin: 0 auto; 
+    background-color: #525252;
+    padding: 20px;
+    height: 400px;
+    overflow: hidden; 
+    min-height: 550px;
+}
+.image-container {
+    overflow: hidden;
+}
+.container-texto-seccion-1 {
+    padding-top: 60px;
+}
+.container-texto-seccion-1 h2 {
+    color: #D10000;
+    margin-bottom: 60px;
+}
+.container-texto-seccion-1 label {
+    color: antiquewhite;
+    margin-bottom: 50px;
+}
+
+
+.seccion-2 {
+    width: 70%; 
+    min-width: 300px; 
+    margin: 0 auto; 
+    background-color: #525252;
+    padding: 20px;
+    height: 400px;
+    overflow: hidden; 
+    min-height: 680px;
+}
+
+.container-texto-seccion-2 {
+    padding-top: 60px;
+}
+.container-texto-seccion-2 h2 {
+    color: #D10000;
+    margin-bottom: 60px;
+}
+.container-texto-seccion-2 label {
+    color: antiquewhite;
+    margin-bottom: 50px;
+}
+
+.container {
+    width: 80% !important; 
+    margin-left: 10% !important; 
+    margin-right: 10% !important; 
+    max-width: none !important;
+}
+
+.seccion-3 {
+    width: 100%;
+    margin: 0 auto;
+    background-color: black;
+    height: auto;
+    overflow: hidden;
+}
+
+.container-texto-seccion-3 {
+    padding-top: 30px;
+}
+.container-texto-seccion-3 h2 {
+    color: #D10000;
+    margin-bottom: 40px;
+}
+
+
